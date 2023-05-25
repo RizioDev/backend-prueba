@@ -1,0 +1,41 @@
+html, body {
+  height: 100%;
+  margin: 0%;
+}
+
+/* body {
+  background-image:  url("./img/sunset.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  overflow: auto;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+} */
+
+body {
+  background-image: url("./img/sunset.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+.searchBar{     
+  margin-top: 60px;
+  padding: 10px;
+  width: 600px;
+  height: 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+
+.button:hover{
+  background-color: #3CA6A6;
+  color: white;
+}
+

@@ -1,0 +1,111 @@
+/* cursor: pointer;
+display: inline;
+margin-right: 30px;
+padding: 5px;
+user-select: none;
+-moz-user-select: none; */
+.buttonNextA{
+      width: 20px;
+       height: 25px;
+      font-size: 10px;   
+      color: white;
+      background-color: #BB6ACF;
+      cursor: pointer;
+      display: inline;
+      margin: 1px;
+      padding: 4px;
+       user-select: none;
+      -moz-user-select: none;
+      border: 0cm;
+      border-radius: 20%;
+
+      
+  }
+
+  .buttonNextB{
+      width: 20px;
+      height: 25px;
+      font-size: 10px;   
+      color: white;
+      background-color: #BB6ACF;
+      cursor: pointer;
+      display: inline;
+      margin: 1px;
+      padding: 4px;
+       user-select: none;
+      -moz-user-select: none;
+      border: 0cm;
+      border-radius: 20%;
+  }
+
+  .buttonBackA{
+      width: 20px;
+      height: 25px;
+      font-size: 10px;   
+      color: white;
+      background-color: #BB6ACF;
+      cursor: pointer;
+      display: inline;
+      margin: 1px;
+      padding: 4px;
+       user-select: none;
+      -moz-user-select: none;
+      border: 0cm;
+      border-radius: 20%;
+  }
+
+  .p {
+    font-size: 16px;
+    border-radius: 3%;
+    margin: 20px;
+    align-items: center;
+    flex-direction: column;
+    display: inline-block;
+    padding: 4px;
+    color: white;
+    background-color: #BB6ACF;
+  }
+
+  .centerize {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 3px;
+}
+
+  .buttonBackB{
+    font-size: 10px;   
+    color: white;
+    background-color: #BB6ACF;
+    cursor: pointer;
+    display: inline;
+    margin: 1px;
+    padding: 4px;
+     user-select: none;
+    -moz-user-select: none;
+    border: 0cm;
+    border-radius: 20%;
+  }
+
+  .pagination:hover {
+    background-color: #d085e2;
+    color: white;
+  }
+
+  .pagination {
+    display: inline-block;
+    background-color: #BB6ACF;
+    margin: 1px;
+    width: 30px;
+    margin-block-end: auto;
+    height: 30px;
+    border: none;
+    border-radius: 20%;
+    color: white;
+    cursor: pointer;
+  }
+  
+  /* .actual {
+    text-align: center;
+    padding: 4px;
+  } */
