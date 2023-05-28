@@ -6,7 +6,7 @@
   <img height="200" src="./countries.png" />
 </p>
 
-## Objetivos del Proyecto
+## Objetivos del Proeyecto
 
 - Construir una App utlizando React, Redux, Node y Sequelize.
 - Afirmar y conectar los conceptos aprendidos en la carrera.
